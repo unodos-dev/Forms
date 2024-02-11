@@ -1,0 +1,9 @@
+body {
+  background-color: pink;
+  text-align: center;
+}
+
+.text {
+  font-size: 300%;
+  margin-top: 20%;
+}

@@ -1,0 +1,46 @@
+body {
+  background-size: transparent;
+  background-image: url(./image1/HUHU.jpeg);
+  text-align: center;
+}
+
+.search-bar {
+  margin-left: 75%;
+  text-align: center;
+}
+
+.buttons nav {
+  text-align: center;
+  justify-content: space-between;
+  display: flex;
+}
+
+.text {
+  height: 100%;
+  vertical-align: top 20%;
+  font-size: 350%;
+}
+
+.forms #LastName {
+  margin-bottom: 2%;
+  text-align: center;
+}
+
+.form1 #FirstName {
+  margin-bottom: 2%;
+  text-align: center;
+}
+
+.form2 #MiddleName {
+  margin-bottom: 2%;
+  text-align: center;
+}
+
+.form3 #GradeAndSection {
+  margin-bottom: 1%;
+  text-align: center;
+}
+
+.checkbox #check {
+  margin-bottom: 1%;
+}
